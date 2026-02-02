@@ -20,7 +20,7 @@ A basic Student Management API built with **TypeScript**, **Express**, and **Mon
 
     The server will start at `http://localhost:8080`.
 
-## 📂 Project Structure
+## Project Structure
 
 The project follows a strict **Layered Architecture**:
 
@@ -30,7 +30,7 @@ The project follows a strict **Layered Architecture**:
 -   **Model** (`src/models`): Mongoose schema definitions.
 -   **Interface** (`src/interfaces`): TypeScript type definitions.
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Base URL: `/students`
 
