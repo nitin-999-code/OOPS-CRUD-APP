@@ -2,7 +2,7 @@
 
 A basic Student Management API built with **TypeScript**, **Express**, and **MongoDB**. This project demonstrates a clean OOP layered architecture for academic purposes.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Install Dependencies**
     ```bash
